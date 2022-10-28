@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="number">No.</string>
+    <string name="date">Date</string>
+    <string name="desc">Desc</string>
+    <string name="nominal">Nominal</string>
+    <string name="one">1</string>
+    <string name="total">Total</string>
+    <string name="rp">Rp</string>
+    <string name="rp_0">Rp 00.00</string>
+    <string name="rp_0_0">0</string>
+    <string name="input_note">INPUT NOTE</string>
+    <string name="input_desc">Masukan Deskripsi</string>
+    <string name="save">Save</string>
+    <string name="empty">Data masih kosong!!</string>
+    <string name="out">Keluar</string>
+    <string name="in">Masuk</string>
+    <string name="message_logout">Yakin Akan di hapus?</string>
+    <string name="delete">Buang</string>
+    <string name="yes">ya</string>
+    <string name="no">Tidak</string>
+</resources>
